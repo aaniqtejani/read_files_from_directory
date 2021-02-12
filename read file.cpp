@@ -12,7 +12,7 @@ void listFile();
 int main(){
 	int i=0;
 	string file_name=""//file name should be entered in this varable 
-    listFile(file_name);
+	listFile(file_name);
     fstream file; 
     string word, t, q; 
   	
